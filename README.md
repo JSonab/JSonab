@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Sofya
-- 👀 I’m interested in Web-development
-- 🌱 I’m currently learning React
+- 🌼  Меня зовут Софья
+- 💻 Я Frontend-debveloper
+- 🌱 Сейчас изучаю React
+- 😸Чтобы связаться тг @Sonab_laeva
   
