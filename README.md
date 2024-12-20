@@ -15,7 +15,7 @@
 - Scss
 - Figma
 ---
-### ✍️ Write me in
+## ✍️ Write me in
 - telegram @Sonab_laeva
 - e-mail Sonbeljaewa@mail.ru
   
