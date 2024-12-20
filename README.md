@@ -6,7 +6,7 @@
 
  - I'm Frontend-developer
  
-- 🌱 I’m currently learning React
+-  I’m currently learning React
   
 ### 💻 What I use
 
